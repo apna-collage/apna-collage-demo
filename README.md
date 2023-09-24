@@ -1,3 +1,4 @@
 # apna-collage-demo
-this is my Git repository
+this is my Git repository.
+<br>
 Author-pritee kashyap
